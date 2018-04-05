@@ -4,6 +4,8 @@
 ___________________
 <h5>April 2018
 <h5>Limerick Ireland
-<h5>Contact me for any questions @ej2moloney
-*************
+<h5>Contact me for any questions @ej2moloney 
+<br/>
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
